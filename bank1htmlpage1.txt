@@ -1,0 +1,44 @@
+<HTML>
+<link rel="stylesheet"  href="style.css">
+
+<script src="bank2.js"></script>
+<body>
+	<div class="menu">
+		<div class="leftmenu">
+			<h1> INDIAN BANK </h1>
+			
+				<div>
+			<i class ="fas fa-times"></i>
+			<ul>
+	           <li><a>home</a></li>
+	           <li><a class="login">login</a></li>
+	  
+	<li><a href="signup.html">sign up</a></li>
+	
+	<li><a href="contact.html">contact us</a></li>
+	</ul>
+</div>
+		</div>
+		<div class="pop">
+		
+			
+<form>
+    <input type="text" placeholder="Username" id="text1" /><br />
+    <input type="password" placeholder="Password" id="text2" /><br />
+    <input type="button" value="Login"  onclick="javascript:validate()" />
+</form>
+
+			
+				
+						<form action="bank0.html"></form>
+				
+				<br><br>
+
+		<form action="bank1.html" method="get">
+		<button>close</button>
+	</form>
+
+	
+
+</body>	
+</HTML>

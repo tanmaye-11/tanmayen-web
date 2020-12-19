@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet"  href="style1.css">
+	<title>Admin user login page</title>
+
+</head>
+<body>
+	<div class="menu">
+		<div class="leftmenu">
+			<h1> INDIAN BANK </h1>
+			
+				<div>
+</body>
+<h2>Welcome to admin portal</h2>
+<ul>
+	<table>
+	<li><a><h3>Indian Bank</h3></a></li>
+	<li><a>branch:<b>Edison,NJ</b></a></li>
+	<li><a>Account Holder:<b>Bob Marley</b></a></li>
+		<li><a>Account number:<b>00020152109</b></a></li>
+		<li><a>Account type:<b>Savings</b></a></li>
+		<li><a>Bank Code:<b>IND0001</b></a></li>
+	</table>
+	
+	
+
+</ul>
+<table>
+	<tr>
+	</tr>
+		<tr>
+			<th> Date</th>
+			<th> Description</th>
+			<th> Reference</th>
+			<th> Withdrawal</th>
+			<th> Deposit</th>
+			<th> Balance</th>
+		</tr>
+		<tr>
+			<td rowspan="2">15-May-2020</td>
+			<td>Cash Deposit</td>
+			<td>CD-001</td>
+			<td></td>
+			<td>$100</td>
+			<td>$1000</td>
+		</tr>
+		<tr>
+			<td rowspan="3">16-May-2020</td>
+			<td>ATM withdrawal</td>
+			<td>AW-001</td>
+			<td>$100</td>
+			<td>$100</td>
+			<td>$900</td>
+		</tr>
+		
+	</table>
+
+<ul>
+	<table>
+		<li><a><h3>Indian Bank</h3></a></li>
+	<li><a>branch:<b>Edin,NJ</b></a></li>
+	<li><a>Account Holder:<b>Alice martin</b></a></li>
+		<li><a>Account number:<b>00020167208</b></a></li>
+		<li><a>Account type:<b>current</b></a></li>
+		<li><a>Bank Code:<b>IND0001</b></a></li>
+	</table>
+	
+</ul>
+<table>
+		<tr>
+			<th> Date</th>
+			<th> Description</th>
+			<th> Reference</th>
+			<th> Withdrawal</th>
+			<th> Deposit</th>
+			<th> Balance</th>
+		</tr>
+		<tr>
+			<td rowspan="2">20-May-2020</td>
+			<td>Cash Deposit</td>
+			<td>CD-001</td>
+			<td></td>
+			<td>$200</td>
+			<td>$2000</td>
+		</tr>
+	</table>
+		
+<ul>
+	<table>
+		<li><a><h3>Indian Bank</h3></a></li>
+	<li><a>branch:<b>Edison,NJ</b></a></li>
+	<li><a>Account Holder:<b>Joe Erison</b></a></li>
+		<li><a>Account number:<b>00030163106</b></a></li>
+		<li><a>Account type:<b>Savings</b></a></li>
+		<li><a>Bank Code:<b>IND0001</b></a></li>
+	</table>
+</ul>
+<table>
+		<tr>
+			<th> Date</th>
+			<th> Description</th>
+			<th> Reference</th>
+			<th> Withdrawal</th>
+			<th> Deposit</th>
+			<th> Balance</th>
+		</tr>
+		<tr>
+			<td rowspan="2">20-April-2020</td>
+			<td>Cash Deposit</td>
+			<td>CD-001</td>
+			<td></td>
+			<td>$100</td>
+			<td>$1100</td>
+		</tr>
+	</table>
+	<form action="bank1.html" method="get">
+		<button>logout</button>
+
+</body>
+</html>

@@ -1,0 +1,55 @@
+window.addEventListener("load",init);
+function init(){
+	document.querySelector(".login",init).addEventListener("click",fun);
+    document.querySelector(".fas").addEventListener("click",close);
+	
+}
+function fun(){
+	document.querySelector(".pop").style.display="block";
+
+	}
+	function close() {
+
+		document.querySelector(".close",init).style.display="none";
+	}
+	function validate()
+{
+    if(   document.getElementById("text1").value == "admin"
+       && document.getElementById("text2").value == "admin" )
+    {
+        alert( "validation succeeded" );
+        location.href="bank0.html";
+    }
+
+
+    if(   document.getElementById("text1").value == "bob"
+       && document.getElementById("text2").value == "bob" )
+    {
+        alert( "validation succeeded" );
+        location.href="bankcustomer.html";
+    }
+    if(   document.getElementById("text1").value == "alice"
+       && document.getElementById("text2").value == "alice" )
+    {
+        alert( "validation succeeded" );
+        location.href="alice.html";
+    }
+
+
+    if(   document.getElementById("text1").value == "joe"
+       && document.getElementById("text2").value == "joe" )
+    {
+        alert( "validation succeeded" );
+        location.href="joe.html";
+    }
+    else
+    {
+        ( "validation failed" );
+    }
+}
+
+
+
+
+
+

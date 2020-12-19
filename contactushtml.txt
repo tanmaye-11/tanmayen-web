@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet"  href="contactus.css">
+<body>
+<div class="menu">
+		<div class="leftmenu">
+			<h1> INDIAN BANK </h1>
+		</div>
+			
+
+	<ul>
+	<table>
+	<h3>Corporate Office</h3>
+		<br><br><br>
+	<li><a>Indian Bank Limited,'Indian Bank'</a></li>
+	<h4>Agara-560034,Bangalore.</h4>
+	<br><br><br>
+	<li><a>Call us : +91-22-234576/65432789</a></li>
+		
+	</table>
+	<h3>Connect with us</h3>
+	<input type="radio" name="male" id="male"><span id="male">&nbsp;Instagram</span>
+    <input type="radio" name="Female" id="Female"><span id="male">&nbsp;Twitter</span>
+    <input type="radio" name="others" id="male"><span id="Others">&nbsp;Facebook</span>
+    <br><br>
+    <li><a href="bank1.html">home page</a></li> 
+
+	
+		
+
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet"  href="joee.css">
+	<title>Joe login page</title>
+</head>
+<body>
+	<H1> Welcome to Joe Erison portal</H1>
+	<ul>
+		<li>Contact number:8976045235</li>
+		<li><a Age:>28</a></li>
+		<li><a Gender:> Female</a></li>
+	    <li>Balance amount:$1100</li>
+	    </ul>
+	    <form action="bank1.html" method="get">
+		<button>logout</button>
+
+</body>
+</html>

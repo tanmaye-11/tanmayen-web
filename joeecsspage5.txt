@@ -1,0 +1,11 @@
+button{
+	background-color: #ff4500;
+	display: inline-flex;
+	padding: 10px 25px;
+	color: #fff;
+	font-weight: bold;
+	outline: none;
+	border: transparent;
+	margin-left: 30px;
+	cursor: pointer;
+}

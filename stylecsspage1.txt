@@ -1,0 +1,79 @@
+body
+{
+	background: url(http://wonderfulengineering.com/wp-content/uploads/2014/01/beautiful-wallpaper-29.jpg) no-repeat;
+	background-size: cover;
+    font-family: Arial;
+    color: white;
+
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+
+}
+ul li{
+
+	float: top right;
+	width: 200px;
+	height: 40px;
+	background-color: black;
+	opacity: .8;
+	line-height: 40px;
+	text-align: center;
+	margin-right: 10px;
+	
+
+}
+ul li a {
+	
+	text-decoration: none;
+	color: white;
+	display: black;
+
+
+}
+ul li a:hover{
+	background-color: purple;
+	cursor: pointer;
+
+
+}
+ul li ul li{
+	display:none;
+}
+div  {
+	color: gold;
+}
+.pop{
+	display: none;
+	width: 400px;
+	height: 450px;
+	background-color: white;
+	border-radius: 5px;
+	transform: translate(-50%,-50%);
+	position:absolute;
+	top: 50%;
+	left: 50%;
+
+}
+input:first-child{
+	margin-top: 100px;
+}
+input{
+	height: 40px;
+	margin: 20px;
+	width:  90%;
+}
+
+button{
+	background-color: #ff4500;
+	display: inline-flex;
+	padding: 10px 25px;
+	color: #fff;
+	font-weight: bold;
+	outline: none;
+	border: transparent;
+	margin-left: 150px;
+	cursor: pointer;
+}
